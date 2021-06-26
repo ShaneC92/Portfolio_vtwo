@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Shane's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [React](https://github.com/facebook/create-react-app).
 
-
+<!-- Please take this out you moron.!.!.! -->
 Yo dawg, this is my portfoli.
